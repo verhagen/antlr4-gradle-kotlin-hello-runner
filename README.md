@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/verhagen/antlr4-gradle-kotlin-hello-runner.svg?branch=master)](https://travis-ci.com/verhagen/antlr4-gradle-kotlin-hello-runner)
+[![Build Status](https://travis-ci.com/verhagen/antlr4-gradle-kotlin-hello-runner.svg?branch=main)](https://travis-ci.com/verhagen/antlr4-gradle-kotlin-hello-runner)
 
 
 # Antlr v4 - Gradle Kotlin DSL - A First Example - Hello Runner
