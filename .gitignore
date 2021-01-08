@@ -1,0 +1,16 @@
+# Generic
+tmp/
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse Configuration
+bin/
+.settings/
+.classpath
+.project
+
+# IntelliJ Configuration
+.idea/
+*.iml
